@@ -9,7 +9,7 @@
 <body>
 	<h1>Register Organisation</h1>
 	<hr />
-	<form action="orgRegisterServlet" method="post">
+	<form action="OrgRegisterServlet" method="post">
 		<div>
 			<h2>Login Information</h2>
 			Username: <input type=text name="username" /> Password: <input
