@@ -8,7 +8,7 @@
 </head>
 <body>
 <ul>
-	<li><a href="/orgRegister.jsp">Organisation Sign Up!</a></li>
+	<li><a href="orgRegister.jsp">Organisation Sign Up!</a></li>
 </ul>
 </body>
 </html>
