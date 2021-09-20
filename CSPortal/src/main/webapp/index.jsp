@@ -7,6 +7,8 @@
 <title>CSP-Welcome!</title>
 </head>
 <body>
-Testing
+<ul>
+	<li><a href="/orgRegister.jsp">Organisation Sign Up!</a></li>
+</ul>
 </body>
 </html>
